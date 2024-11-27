@@ -63,7 +63,7 @@
 		<td colspan="3"> <p style="color:yellow"> Rayo </p> </td>
 	</tr>
 	<tr>
-		<td colspan="2"> <img style="width:120px; heght:72px" src="psi.png"> </td>
+		<td colspan="2"> <img style="width:120px; heght:72px" src="Psi.png"> </td>
 		<td colspan="3"> <p style="color:pink"> Psíquico </p> </td>
 		<td colspan="3"> <p style="color:white"> N/A </p> </td>
 	</tr>
