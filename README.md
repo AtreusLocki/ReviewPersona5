@@ -25,10 +25,10 @@
 <table>
 	<tr>
 		<td> <img src="p3.png"> </td>
-		
-		<td> <p> Este juego es un JRPG en el que 1 adolescente de 16 años se tiene que mudar a Tokyo y como tanto adaptarse a su nueva vida ahí. <br>
+			<td> <p> Este juego es un JRPG en el que 1 adolescente de 16 años se tiene que mudar a Tokyo y como tanto adaptarse a su nueva vida ahí. <br>
 				Y mediante una aplicación de movil debera adentrarse a los corazones de las victimas las cuales suelen ser delicuentes para que <br>
-				acaben confesando los crimenes. <span> Para mi destaca sobre los demas gracias a su sistema de ataque y a su historia que ha enamorado a muchos jugadores </span> </p> </td>
+				acaben confesando los crimenes. <span> Para mi destaca sobre los demas gracias a su sistema de ataque y a su historia que ha enamorado a muchos jugadores</span> </p> </td>
+	
 	</tr>
 </table>
 
