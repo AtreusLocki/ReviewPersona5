@@ -2,7 +2,6 @@
 <html>
 
 <head>
-<title> Review Persona 5 </title>
 <meta charset="UTF-8">
 <link rel="stylesheet" type="text/css" href="tengomiedo.css">
 <meta name="description" content="Página web que intenta ayudar a las personas a entra al juego Persona 5 y una mini review del juego">
