@@ -29,7 +29,7 @@
 				Y mediante una aplicación de movil debera adentrarse a los corazones de las victimas las cuales suelen ser delicuentes para que <br>
 				acaben confesando los crimenes. <span> Para mi destaca sobre los demas gracias a su sistema de ataque y a su historia que ha enamorado a muchos jugadores</span> </p> </td>
 	
-	</tr>
+</tr>
 </table>
 
 <hr>
